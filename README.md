@@ -1,16 +1,11 @@
-<div align="center">
+<!-- Full-bleed animated hero (edge to edge) -->
+<img src="./assets/identity-banner.gif" width="100%" alt="Arslan Naeem — animated profile banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06140f,55:0b2e24,100:10b981&text=ARSLAN%20NAEEM&fontSize=46&fontColor=ecfdf5&animation=fadeIn&fontAlignY=40&desc=Frontend%20%C2%B7%20Full-Stack%20Collaborator%20%C2%B7%20Product%20Builder&descSize=14&descAlignY=62&descColor=A7F3D0" width="100%" alt="Arslan Naeem"/>
+<div align="center">
 
 <br/>
 
-<img src="./assets/identity-orbit.gif" width="240" alt="AN identity animation"/>
-
-<br/><br/>
-
-### Building production UIs — and collaborating on large-scale product systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=FBBF24&center=true&vCenter=true&width=680&height=40&lines=React+%2B+Next.js+%2B+TypeScript;Admin+portals+%26+seller+platforms;Healthcare+%26+fintech+frontends;Build+with+clarity.+Ship+with+care." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=FBBF24&center=true&vCenter=true&width=780&height=40&lines=Building+production+UIs+%26+collaborating+on+large+systems;React+%2B+Next.js+%2B+TypeScript;Admin+portals+%C2%B7+seller+platforms+%C2%B7+healthcare;Build+with+clarity.+Ship+with+care." alt="typing"/>
 
 <br/>
 
