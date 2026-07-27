@@ -66,23 +66,29 @@ Actively contributing to large product frontends (admin portals, seller platform
 
 ## Pulse
 
+<!-- Cards are stored in ./cards (auto-refreshed by Actions) so GitHub always displays them -->
+
 <div align="center">
 
-<a href="https://github.com/naeemarslan1947-creator">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=naeemarslan1947-creator&show_icons=true&theme=transparent&hide_border=true&bg_color=06140F&title_color=10B981&icon_color=FBBF24&text_color=D1FAE5&ring_color=10B981&cache_seconds=1800" alt="GitHub Stats"/>
-</a>
+<img src="./cards/card-stats.svg" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<a href="https://github.com/naeemarslan1947-creator">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemarslan1947-creator&layout=compact&theme=transparent&hide_border=true&bg_color=06140F&title_color=10B981&text_color=D1FAE5&cache_seconds=1800" alt="Top Languages"/>
-</a>
+<img src="./cards/card-langs.svg" height="175" alt="Repos per language"/>
+&nbsp;&nbsp;
+<img src="./cards/card-commits.svg" height="175" alt="Most commit language"/>
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=naeemarslan1947-creator&theme=transparent&hide_border=true&background=06140F&ring=10B981&fire=FBBF24&currStreakLabel=10B981&sideLabels=A7F3D0&dates=6EE7B7&cache_seconds=1800" alt="GitHub Streak"/>
+<img src="./cards/streak.svg" height="170" alt="GitHub Streak"/>
+&nbsp;&nbsp;
+<img src="./cards/card-time.svg" height="170" alt="Productive time"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naeemarslan1947-creator&bg_color=06140f&color=10b981&line=fbbf24&point=a7f3d0&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img src="./cards/card-profile.svg" width="100%" alt="Profile details"/>
+
+<br/><br/>
+
+<img src="./cards/activity-heatmap.svg" width="100%" alt="Contribution activity heatmap"/>
 
 </div>
 
