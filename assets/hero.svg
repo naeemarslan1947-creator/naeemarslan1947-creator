@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Arslan Naeem">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0F1A24"/>
+      <stop offset="100%" stop-color="#10241F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#34D399"/>
+      <stop offset="80%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <!-- left accent -->
+  <rect x="0" y="0" width="5" height="220" fill="#34D399"/>
+
+  <!-- monogram block -->
+  <rect x="48" y="58" width="104" height="104" rx="20" fill="#111827" stroke="#1F2937" stroke-width="1.5"/>
+  <text x="100" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#34D399">AN</text>
+
+  <!-- name + role -->
+  <text x="180" y="100" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">Arslan Naeem</text>
+  <text x="180" y="138" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#94A3B8">Frontend Engineer  ·  Product-focused collaborator</text>
+
+  <!-- accent rule -->
+  <rect x="180" y="158" width="420" height="2" rx="1" fill="url(#line)"/>
+
+  <text x="180" y="188" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#64748B">React · Next.js · TypeScript · production UI systems</text>
+</svg>
