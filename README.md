@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:06140f,50:0b2e24,100:10b981&text=ARSLAN%20NAEEM&fontSize=48&fontColor=ecfdf5&animation=twinkling&fontAlignY=48&desc=Builder%20%C2%B7%20Full-Stack%20Creator%20%C2%B7%20Product-Minded&descSize=15&descAlignY=68&descColor=A7F3D0" width="100%" alt="Arslan Naeem"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06140f,55:0b2e24,100:10b981&text=ARSLAN%20NAEEM&fontSize=46&fontColor=ecfdf5&animation=fadeIn&fontAlignY=40&desc=Frontend%20%C2%B7%20Full-Stack%20Collaborator%20%C2%B7%20Product%20Builder&descSize=14&descAlignY=62&descColor=A7F3D0" width="100%" alt="Arslan Naeem"/>
 
 <br/>
 
-<!-- 3D voxel monogram — assemble → hold → scatter (emerald / gold, distinct from photo particles) -->
-<img src="./assets/identity-voxels.gif" width="280" alt="AN voxel identity animation"/>
+<img src="./assets/identity-orbit.gif" width="240" alt="AN identity animation"/>
 
 <br/><br/>
 
-### Shipping ideas across frontend, backend & voice experiences
+### Building production UIs — and collaborating on large-scale product systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=F5BC42&center=true&vCenter=true&width=700&height=42&lines=TypeScript+%2B+Next.js+products;PHP+backends+that+stay+maintainable;Voice+interfaces+%26+interactive+UX;Build+fast.+Iterate+honestly." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=FBBF24&center=true&vCenter=true&width=680&height=40&lines=React+%2B+Next.js+%2B+TypeScript;Admin+portals+%26+seller+platforms;Healthcare+%26+fintech+frontends;Build+with+clarity.+Ship+with+care." alt="typing"/>
 
 <br/>
 
@@ -29,23 +28,23 @@
 
 ---
 
-## About this workspace
+## Collaborations — production projects
 
-I build across the stack — from polished TypeScript UIs to PHP services and experimental voice interfaces. This profile tracks active experiments, shipped side projects, and the systems behind them.
+Actively contributing to large product frontends (admin portals, seller platforms, healthcare & sports systems):
 
-```bash
-$ whoami
-naeemarslan1947-creator
-
-$ focus
-→ Product-minded engineering
-→ Clean APIs + reliable backends
-→ Interfaces people actually enjoy using
-```
+| Project | Focus |
+|:---|:---|
+| **[SafarCapital Seller Portal](https://github.com/dayyanshahid/SafarCapital-SellerPortal-Frontend)** | Seller-facing fintech / capital platform UI |
+| **[SafarCapital Admin Portal](https://github.com/dayyanshahid/SafarCapita-AdminPortal)** | Admin operations & control panel |
+| **[Synaptix Care Frontend](https://github.com/dayyanshahid/Synaptix-Care-Frontend-V3-V0)** | Healthcare product UI (V3) |
+| **[Synaptix Admin Frontend](https://github.com/dayyanshahid/Synaptix-Admin-Frontend)** | Synaptix administration experience |
+| **[Synaptix AI Texting](https://github.com/dayyanshahid/Synaptix-Ai-Texting-Frontend)** | AI-assisted messaging frontend |
+| **[Cricket Admin Panel](https://github.com/dayyanshahid/Cricket-Admin-Panel)** | Sports admin dashboard |
+| **[Crickitt Backend](https://github.com/the-platapus/Crickitt-backend-fork)** | Backend services collaboration |
 
 ---
 
-## Featured work
+## Personal projects
 
 | Project | Stack | What it explores |
 |:---|:---|:---|
@@ -59,29 +58,9 @@ $ focus
 
 <div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,html,css,git,github,vscode,vercel" alt="skills"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,html,css,tailwind,git,github,vscode,vercel" alt="skills"/>
 
 </div>
-
-| Layer | Tools I reach for |
-|:---|:---|
-| **Interface** | React, Next.js, TypeScript, modern CSS |
-| **Server** | PHP, Node.js, REST-oriented APIs |
-| **Craft** | Git workflows, iterative UX, readable architecture |
-
----
-
-## Operating principles
-
-```diff
-+ Ship small, learn fast
-+ Prefer clarity over cleverness
-+ Treat performance as a feature
-+ Design for the person on the other side of the screen
-- Don't leave half-finished systems in production
-```
 
 ---
 
@@ -89,17 +68,21 @@ $ focus
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=naeemarslan1947-creator&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=06140f&title_color=10b981&icon_color=f5bc42&text_color=d1fae5&ring_color=10b981" alt="stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemarslan1947-creator&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=06140f&title_color=10b981&text_color=d1fae5" alt="langs"/>
+<a href="https://github.com/naeemarslan1947-creator">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=naeemarslan1947-creator&show_icons=true&theme=transparent&hide_border=true&bg_color=06140F&title_color=10B981&icon_color=FBBF24&text_color=D1FAE5&ring_color=10B981&cache_seconds=1800" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/naeemarslan1947-creator">
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemarslan1947-creator&layout=compact&theme=transparent&hide_border=true&bg_color=06140F&title_color=10B981&text_color=D1FAE5&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naeemarslan1947-creator&theme=chartreuse-dark&hide_border=true&background=06140f&ring=10b981&fire=f5bc42&currStreakLabel=10b981" alt="streak"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=naeemarslan1947-creator&theme=transparent&hide_border=true&background=06140F&ring=10B981&fire=FBBF24&currStreakLabel=10B981&sideLabels=A7F3D0&dates=6EE7B7&cache_seconds=1800" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github.com/naeemarslan1947-creator/naeemarslan1947-creator/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naeemarslan1947-creator&bg_color=06140f&color=10b981&line=fbbf24&point=a7f3d0&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
@@ -109,6 +92,6 @@ $ focus
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:10b981,55:0b2e24,100:06140f&section=footer" width="100%" alt=""/>
 
-<sub>Emerald builds · Gold details · Always iterating</sub>
+<sub>Collaborating on products that ship · Building systems that last</sub>
 
 </div>
